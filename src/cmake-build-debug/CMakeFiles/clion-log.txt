@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja "C:\Users\PC\Desktop\Progra 2\Basic Practice for Progra 2\Codigo GitHub\Lab1\lab01-inheritance-JhosuaM\src"
+CMake Error at CMakeLists.txt:8 (add_subdirectory):
+  add_subdirectory given source "src" which is not an existing directory.
+
+
+CMake Error at CMakeLists.txt:9 (add_subdirectory):
+  add_subdirectory given source "tst" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/PC/Desktop/Progra 2/Basic Practice for Progra 2/Codigo GitHub/Lab1/lab01-inheritance-JhosuaM/src/cmake-build-debug/CMakeFiles/CMakeOutput.log".

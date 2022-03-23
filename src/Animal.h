@@ -20,6 +20,11 @@ public:
     animal(int x, string y);
     animal();
 
+    //destructor
+    virtual ~animal();
+
+    //Metodos
+    virtual void doSomething();
 
     //SET
     void setNumeroPatas(int x);
@@ -30,13 +35,6 @@ public:
 
     //ToString
     string toString()const;
-
-    virtual ~animal();
-
-    //Metodos
-    virtual void doSomething();
-
-
 };
 
 

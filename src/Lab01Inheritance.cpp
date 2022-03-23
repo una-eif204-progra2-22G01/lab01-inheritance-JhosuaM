@@ -1,6 +1,7 @@
 #include <iostream>  // allows program to output data to the screen
 #include "Animal.h"
 #include "Perro.h"
+#include "Gato.h"
 
 
 
@@ -18,5 +19,9 @@ int main(int argc, const char *argv[]) {
 
      b.doSomething();
      cout<<b.toString();
+
+     gato c;
+    cout<<c.toString();
+
 
 }  // end function main
