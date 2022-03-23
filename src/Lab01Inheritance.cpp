@@ -3,10 +3,6 @@
 #include "Perro.h"
 #include "Gato.h"
 
-
-
-
-
 // function main begins program execution
 int main(int argc, const char *argv[]) {
 
